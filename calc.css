@@ -1,0 +1,47 @@
+body
+{  
+    background-color: lightblue;
+    align-items: center;
+} 
+h1{
+   text-align:center;
+   font-family: cursive;
+   font-size: 32px;
+   margin-top: 50px;
+   color: darkviolet;
+}
+#calc{
+    margin:200px 500px 0px 650px ;
+   
+    
+}
+#output{ 
+   
+    background-color: lightgray;
+    border: solid;
+    font-size: 20px;
+    width: 403px;
+    height: 50px;
+    text-align: right;
+    border-radius: 15px;
+}
+
+
+
+.bt{ 
+   width:100px;
+   height: 70px;
+    font-size: 27px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+
+}
+.bt:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+#equ{
+    width: 203px;
+}
